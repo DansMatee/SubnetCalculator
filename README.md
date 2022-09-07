@@ -18,10 +18,10 @@ If you do want to download from source, download the project, open in VS Studio 
 
 
 # How to Use
-Input your base network address and press the set button.
-Add your subnets.
-Press the generate button.
-Select each subnet array item to view its details.
-Press the copy data button to copy to clipboard and paste in a neat format.
+- Input your base network address and press the set button.
+- Add your subnets.
+- Press the generate button.
+- Select each subnet array item to view its details.
+- Press the copy data button to copy to clipboard and paste in a neat format.
 
 To reset the subnets and change the base network address, press the clear button.
