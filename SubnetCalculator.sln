@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubnetCalculator", "SubnetCalculator.csproj", "{AC82FA52-95BC-46FA-90BF-4DBF2315D14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC82FA52-95BC-46FA-90BF-4DBF2315D14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC82FA52-95BC-46FA-90BF-4DBF2315D14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC82FA52-95BC-46FA-90BF-4DBF2315D14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC82FA52-95BC-46FA-90BF-4DBF2315D14D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38983AA3-D61A-46A5-99EC-DA644D8B1F34}
+	EndGlobalSection
+EndGlobal
