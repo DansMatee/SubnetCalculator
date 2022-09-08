@@ -48,6 +48,11 @@ namespace SubnetCalculator
                 currNetAddrSubnet.Enabled = true;
                 setNetworkAddr.Enabled = true;
             }
+            networkIP = 0;
+            defaultGateway = 0;
+            firstHostIP = 0;
+            lastHostIP = 0;
+            broadcastIP = 0;
             clearAddedSubnets.Visible = false;
             generateSubnets.Visible = false;
             firstAddedSubnet = true;
